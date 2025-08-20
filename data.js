@@ -3461,7 +3461,7 @@ const studentData = [
     "Ngày sinh": "23/10/2010",
     "giới tính": "Nam",
     "Dân tộc": "Ê đê",
-    "Lớp": "10B8",
+    "Lớp": "10B7",
     "Học sinh trường": "TH&THCS Sốp Cộp",
     "Môn học và hoạt động giáo dục bắt buộc": "Toán, Văn, Tiếng anh, Lịch sử, GDTC, GDQP-AN, Hoạt động TN-HN, GD lịch sử địa phương",
     " Môn học lựa chọn": " Hóa học, Địa lý, GD KTPL, Công nghệ",
@@ -5653,4 +5653,5 @@ const studentData = [
   }
 
 ];
+
 
